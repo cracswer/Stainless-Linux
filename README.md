@@ -13,4 +13,4 @@ To start creating your very own contribution, the very first thing you will wish
 A big step in this is to compile your own version of Stainless-Linux before contributing. As this can lead to less buggy releases. After you have succesfully made your own compilation of Stainless-Linux, making sure everything works. You will get to the next step. Pull requests. After everything is good in your opinion, you may create a pull request to push your version to the main branch of Stainless-Linux
 
 ### After Pull requesting
-After pull requesting. Your contribution may take time to be pushed to the main branch, as we first have to review all the changes, and test it for ourselves too. Happy contributing! ;)
+After pull requesting. Your contribution may take time to be pushed to the main branch, as we first have to review all the changes, and test it for ourselves too.
