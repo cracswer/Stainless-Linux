@@ -1,7 +1,8 @@
 # Stainless-Linux
 ## Welcome to Stainless-Linux! A Rust-free from scratch made Linux™-Distribution!
-Stainless-Linux is a distribution of Linux™ made from scratch using a kernel without any rust code on it! For shortly. This will be all on the readme.md. We will update it soon tho to give you more information regarding our distribution, and how it works.
-
+### Stainless linux distribution is fully dedicated to transparency, control, and freedom for users who wish to run it. Every part of the system is visible and under the user's control.
+By default there are no hidden subsystems, no preinstalled bloatware, and no opaque abstarctions. Users decide exactly whats installed and running on their machines. The distribution is built on a Rust-free, community-maintained Linux kernel and uses runit as its default init system, so that it is simple reliable and predictable. Stability is a core principle. The package managers include a source based package manager that builds everything from source, and intentions for a torrent-based binary package manager with everything cryptographically signed for people who want decentralized installation of binary packages. Packages not available via the torrent based package manager can be built on source and early adopters help bootstrap the network by seeding. The installer will have multiple profiles including a server profile a minimal profile and a bloated desktop profile with xfce if you are into that. the profiles can be customized to install or not install whichever packages you want or dont want.
+#
 # Contributing to Stainless-Linux
 As we maintain our project Free & Open-source. We are allowing contributions to be made!
 For those who may not know Contributions work. Let us explain shortly on how to make your very own contribution to Stainless-Linux
@@ -14,3 +15,4 @@ A big step in this is to compile your own version of Stainless-Linux before cont
 
 ### After Pull requesting
 After pull requesting. Your contribution may take time to be pushed to the main branch, as we first have to review all the changes, and test it for ourselves too.
+#
