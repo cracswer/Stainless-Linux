@@ -3,7 +3,7 @@
 
 
 # Stainless-Linux
-## Welcome to Stainless-Linux! A Rust-free from scratch made Linux™-Distribution!
+## Welcome to Stainless-Linux! A Rust-free Linux™-Distribution!
 ### Stainless linux distribution is fully dedicated to transparency, control, and freedom for users who wish to run it. Every part of the system is visible and under the user's control.
 By default there are no hidden subsystems, no preinstalled bloatware, and no opaque abstarctions. Users decide exactly whats installed and running on their machines. The distribution is built on a Rust-free, community-maintained Linux kernel and uses runit as its default init system, so that it is simple reliable and predictable. Stability is a core principle. The package managers include a source based package manager that builds everything from source, and intentions for a torrent-based binary package manager with everything cryptographically signed for people who want decentralized installation of binary packages. Packages not available via the torrent based package manager can be built on source and early adopters help bootstrap the network by seeding. The installer contains multiple profiles including a server profile, a minimal profile and a desktop profile. The profiles can be customized to install or not install whichever packages you want or dont want.
 #
