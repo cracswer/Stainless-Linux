@@ -4,7 +4,7 @@ Stainless-Linux is a distribution of Linux™ made from scratch using a kernel w
 
 # Contributing to Stainless-Linux
 As we maintain our project Free & Open-source. We are allowing contributions to be made!
-For those who may not know Contributions work. Let us explain shortly on how to make your very own contribution to ElectronPM
+For those who may not know Contributions work. Let us explain shortly on how to make your very own contribution to Stainless-Linux
 
 ### Forking Stainless-Linux
 To start creating your very own contribution, the very first thing you will wish to do is Fork the project, which you can do from the "Forks" button ontop of the description of the project. After forking, you may start on doing whatever you wished to do.  
