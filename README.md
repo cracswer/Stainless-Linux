@@ -1,3 +1,7 @@
+[![License](https://img.shields.io/badge/license-GPL2-blue.svg)](LICENSE) [![Version](https://img.shields.io/badge/version-0.0.0-green.svg)]()[![Build Status](https://img.shields.io/badge/build-testing-cyan.svg)]()
+
+
+
 # Stainless-Linux
 ## Welcome to Stainless-Linux! A Rust-free from scratch made Linux™-Distribution!
 ### Stainless linux distribution is fully dedicated to transparency, control, and freedom for users who wish to run it. Every part of the system is visible and under the user's control.
