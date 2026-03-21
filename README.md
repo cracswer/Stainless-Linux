@@ -10,7 +10,3 @@ By default there are no hidden subsystems, no preinstalled bloatware, and no opa
 
 # WARNING FOR USERS IN CALIFORNIA AND BRAZIL.
 ## Due to recent events in California, Digital Age Assurance Act (AB 1043), and in Brazil, Digital ECA (Digital Statute of the Child and Adolescent, or Estatuto da Criança e do Adolescente). Starting in California on January 1st, 2027.Usage of Stainless-Linux is prohibited in California. Also starting on March 17th, 2026. Brazil users are also prohibited from using Stainless-Linux for any form usage including Desktop and Server usage.
-
-### After Pull requesting
-After pull requesting. Your contribution may take time to be pushed to the main branch, as we first have to review all the changes, and test it for ourselves too.
-#
