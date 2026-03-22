@@ -1,6 +1,6 @@
 [![License](https://img.shields.io/badge/license-GPL2-blue.svg)](LICENSE) [![Version](https://img.shields.io/badge/version-0.0.0-green.svg)]()[![Build Status](https://img.shields.io/badge/build-testing-cyan.svg)]()
 
-
+<a href='https://postimg.cc/bshnnTtb' target='_blank'><img src='https://i.postimg.cc/bshnnTtb/stelux.png' border='0' alt='stelux'></a>
 
 # Stainless-Linux
 ## Welcome to Stainless-Linux! A Rust-free Linux™-Distribution!
