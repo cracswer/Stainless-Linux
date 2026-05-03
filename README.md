@@ -1,5 +1,6 @@
 [![License](https://img.shields.io/badge/license-GPL2-blue.svg)](LICENSE) [![Version](https://img.shields.io/badge/version-0.0.0-green.svg)]()[![Build Status](https://img.shields.io/badge/build-testing-cyan.svg)]()
 
+<img src="https://github.com/cracswer/Stainless-Linux/blob/main/stelux.png" width="300" height="200">
 
 
 # Stainless-Linux
